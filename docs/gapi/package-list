@@ -1,0 +1,6 @@
+DefaultPackage
+grails-app.conf
+grails-app.services.org.kar.grails.jira
+scripts
+src.groovy.org.kar.grails.jira
+test.unit.org.kar.grails.jira
